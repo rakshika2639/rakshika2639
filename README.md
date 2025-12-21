@@ -16,6 +16,7 @@
 <a href="https://www.leetcode.com/rakshika2639" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rakshika2639" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@mittu263901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mittu263901" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mittu2hhk5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mittu2hhk5" height="30" width="40" /></a>
+  <a href="https://tryhackme.com/p/mico01" target="blank"><img align="center" src=" https://www.bing.com/th/id/OIP.2lQXVuZ4cOaSdbWaf9NPYAHaEK?w=263&h=211&c=8&rs=1&qlt=90&o=6&cb=ucfimg1&dpr=1.3&pid=3.1&rm=2&ucfimg=1" alt="mico01" height="30" width="40" /></a>
 </p>
 ## 🧩 3D Contribution Graph
 
